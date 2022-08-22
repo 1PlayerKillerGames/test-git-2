@@ -8,3 +8,5 @@
 //git config user.name "new name"
 //git config user.email ""
 //git status
+
+console.log('hello world')
